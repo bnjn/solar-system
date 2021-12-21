@@ -2,6 +2,15 @@
     box-sizing: border-box;
 }
 
+.flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 95vw;
+    height: 95vh;
+}
+
 .svgcontainer {
     text-align: center;
     width: auto;
